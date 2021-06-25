@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: rgb(232, 232, 232);
+    color: #3f3f3f;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 5px;
+}
+.main-logo {
+    width: 15px;
+}
+.Nav_bar {
+    background-color: #005385;
+}
+.Nav_bar a {
+    color: white;
+    text-decoration-line: none;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    display: inline-block;
+}
+.Nav_bar li{
+    display: inline;
+}
+.Nav_bar a:hover{
+    background-color: rg;
+}
+.Nav_bar a:hover{
+    background-color: rgba(255, 255, 255, 20%);
+    font-weight: bolder;
+}
+
+.logo {
+    width: 15%;
+}
+
+.course1 {
+    width: 15%;    
+}
+
+.course2 {
+    width: 15%;
+}
+
+.intensive {
+    color: #005385;
+}
+
+.wine {
+    color: brown;
+}
+
+.links-bar{
+    background-color: #005385;
+}
+
+
